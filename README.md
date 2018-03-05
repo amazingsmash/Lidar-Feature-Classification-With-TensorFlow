@@ -1,4 +1,4 @@
-# Lidar Feature Classification With TensorFlow
+# LiDAR Feature Classification With TensorFlow
 
 
 Small TF example used to classify airborne LiDAR using TensorFlow Deep Neural Network models.
