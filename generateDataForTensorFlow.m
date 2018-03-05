@@ -6,7 +6,7 @@ pointClassesOfInterest = [16];
 samples = [];
 
 for i = 26:28
-    filename = sprintf('../DATASET/%06d-expected.mat', i);
+    filename = sprintf('DATASET/%06d-expected.mat', i);
     load(filename)
     fprintf('Loaded %s\n', filename);
 

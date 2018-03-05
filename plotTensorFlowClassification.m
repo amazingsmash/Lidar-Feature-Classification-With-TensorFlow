@@ -1,4 +1,5 @@
 %Plot tensorflow generated classification
+load('TF_results.mat')
 figure;
 hold on;
 l = pointsPredicted(:,4) == 1;
